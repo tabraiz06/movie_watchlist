@@ -1,4 +1,3 @@
-// frontend/src/components/MovieDetails.js
 import React, { useState } from "react";
 import { useDispatch, useSelector } from "react-redux";
 import { rateMovie } from "../redux/actions/movieActions";

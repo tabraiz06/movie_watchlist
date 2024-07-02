@@ -1,4 +1,3 @@
-// frontend/src/redux/reducers/movieReducer.js
 const initialState = {
   movies: [],
 };

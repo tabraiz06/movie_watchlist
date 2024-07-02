@@ -1,4 +1,3 @@
-// frontend/src/redux/actions/movieActions.js
 import axios from "axios";
 
 export const getMovies = () => async (dispatch) => {
